@@ -1,6 +1,6 @@
 # README
 
-[tauri](https://tauri.app/v1) + [umijs](https://umijs.org/docs/max/introduce) Template
+[tauri](https://tauri.app/v1/guides) + [umijs](https://umijs.org/docs/max/introduce) Template
 
 umijs create config:
 
