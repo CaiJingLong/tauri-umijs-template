@@ -2,6 +2,9 @@
 
 [tauri](https://tauri.app/v1/guides) + [umijs](https://umijs.org/docs/max/introduce) Template
 
+<details>
+<summary>My env</summary>
+
 umijs create config:
 
 ```bash
@@ -46,6 +49,8 @@ $ pnpm run tauri info:
     - framework: React
 ```
 
+</details>
+
 ## Requirements
 
 - [rust](https://doc.rust-lang.org/cargo/getting-started/installation.html)
@@ -59,3 +64,4 @@ About the tauri requirements, see [here](https://tauri.app/v1/guides/getting-sta
 1. Click 'Use the template'
 1. Clone your new repository
 1. Run `pnpm i` in the repository.
+1. Run `pnpm run tauri:dev` to start the app to develop.
