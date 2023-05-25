@@ -45,3 +45,17 @@ $ pnpm run tauri info:
     - devPath: <http://localhost:8000/>
     - framework: React
 ```
+
+## Requirements
+
+- [rust](https://doc.rust-lang.org/cargo/getting-started/installation.html)
+- [node](https://nodejs.org/en)
+- [pnpm](https://github.com/pnpm/pnpm)
+
+About the tauri requirements, see [here](https://tauri.app/v1/guides/getting-started/prerequisites).
+
+## Usage
+
+1. Click 'Use the template'
+1. Clone your new repository
+1. Run `pnpm i` in the repository.
