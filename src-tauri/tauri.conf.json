@@ -2,12 +2,12 @@
   "build": {
     "beforeDevCommand": "pnpm dev",
     "beforeBuildCommand": "pnpm build",
-    "devPath": "http://localhost:1420",
+    "devPath": "http://localhost:8000",
     "distDir": "../dist",
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "tauri-example-app1",
+    "productName": "tauri-umi-template",
     "version": "0.0.0"
   },
   "tauri": {
@@ -48,9 +48,9 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "tauri-example-app1",
-        "width": 800,
-        "height": 600
+        "title": "tauri-umi-template",
+        "width": 1200,
+        "height": 900
       }
     ]
   }
