@@ -8,9 +8,8 @@
     "prepare": "husky install",
     "postinstall": "max setup",
     "setup": "max setup",
-    "start": "npm run dev",
     "tauri": "tauri",
-    "tauri:dev": "tauri dev"
+    "start": "tauri dev"
   },
   "dependencies": {
     "@tauri-apps/api": "^1.3.0",
