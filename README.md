@@ -64,4 +64,4 @@ About the tauri requirements, see [here](https://tauri.app/v1/guides/getting-sta
 1. Click 'Use the template'
 1. Clone your new repository
 1. Run `pnpm i` in the repository.
-1. Run `pnpm run tauri:dev` to start the app to develop.
+1. Run `pnpm run start` to start the app to develop.
